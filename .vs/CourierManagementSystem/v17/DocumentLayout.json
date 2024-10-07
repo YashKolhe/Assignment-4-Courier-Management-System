@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\repository\\courierservicesimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\repository\\courierservicesimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\repository\\icourieradminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\repository\\icourieradminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\repository\\icourieruserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\repository\\icourieruserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\model\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\model\\courierservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\courierservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\mainmodule\\couriermanagementapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\mainmodule\\couriermanagementapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\repository\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\repository\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\exceptions\\trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\exceptions\\trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\exceptions\\invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\exceptions\\invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|e:\\yash\\hexacodesc#\\couriermanagementsystem\\couriermanagementsystem\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C9FB73-4057-47C7-B190-E6BF74228B18}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Program.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Program.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:12:56.89Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Location.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\Location.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\Location.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\Location.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:34:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\Payment.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\Payment.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\Payment.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:35:28.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourierServices.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\CourierServices.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\CourierServices.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\CourierServices.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\CourierServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:25:36.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\Courier.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\Courier.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\Courier.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\Courier.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:07:58.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourierServicesIMPL.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Repository\\CourierServicesIMPL.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Repository\\CourierServicesIMPL.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Repository\\CourierServicesIMPL.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Repository\\CourierServicesIMPL.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAhwEkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:59:12.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Repository\\UserInput.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Repository\\UserInput.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Repository\\UserInput.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Repository\\UserInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:07:47.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourierUserServices.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Repository\\ICourierUserServices.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Repository\\ICourierUserServices.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Repository\\ICourierUserServices.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Repository\\ICourierUserServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:33:32.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourierAdminServices.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Repository\\ICourierAdminServices.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Repository\\ICourierAdminServices.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Repository\\ICourierAdminServices.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Repository\\ICourierAdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:32:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\User.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\User.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:25:35.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\Employee.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Model\\Employee.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\Employee.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:24:35.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrackingNumberNotFoundException.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Exceptions\\TrackingNumberNotFoundException.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Exceptions\\TrackingNumberNotFoundException.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Exceptions\\TrackingNumberNotFoundException.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Exceptions\\TrackingNumberNotFoundException.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:17:58.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvalidEmployeeIdException.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Exceptions\\InvalidEmployeeIdException.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Exceptions\\InvalidEmployeeIdException.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\Exceptions\\InvalidEmployeeIdException.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Exceptions\\InvalidEmployeeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:17:28.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourierManagementApp.cs",
+              "DocumentMoniker": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\MainModule\\CourierManagementApp.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\MainModule\\CourierManagementApp.cs",
+              "ToolTip": "E:\\Yash\\HexaCodesC#\\CourierManagementSystem\\CourierManagementSystem\\MainModule\\CourierManagementApp.cs",
+              "RelativeToolTip": "CourierManagementSystem\\MainModule\\CourierManagementApp.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAqwIgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:34:42.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
